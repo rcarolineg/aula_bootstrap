@@ -1,0 +1,24 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.navbar{
+    background-color: #49A078;
+}
+.quem_somos{
+    background-color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #216869;
+}
+
+.bg-footer{
+    background-color: #49A078;
+    color: blanchedalmond;
+}
